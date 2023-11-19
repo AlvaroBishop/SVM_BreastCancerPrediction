@@ -15,7 +15,7 @@ Target classes:
 
 - Malignant
 - Benign
-- 
+ 
 ## Model Training and Prediction
 The SVM model is trained on the provided dataset to learn the patterns and relationships between the input features and the corresponding diagnosis labels. Once trained, the model can predict whether a new biopsy observation is likely to be benign or malignant based on the learned patterns.
 
